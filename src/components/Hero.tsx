@@ -25,15 +25,13 @@ export const Hero = () => {
 
           <a
             rel="noreferrer noopener"
-            href="https://github.com/your-username/ecofolio.git"
+            href="https://ecofolio.vercel.app/"
             target="_blank"
             className={`w-full md:w-1/3 ${buttonVariants({
               variant: "outline",
             })}`}
           >
-            Github Repository
-            <GitHubLogoIcon className="ml-2 w-5 h-5" />
-          </a>
+EcoFolio          </a>
         </div>
       </div>
 
