@@ -17,32 +17,32 @@ interface TestimonialProps {
 const testimonials: TestimonialProps[] = [
   {
     image: "https://github.com/shadcn.png",
-    name: "Sarah Green",
-    userName: "@sarah_green",
+    name: "Abhishek Tripathi",
+    userName: "@abhishek__",
     comment: "EcoFolio has transformed the way I approach sustainability. It's user-friendly interface and comprehensive features make it easy for me to track my progress and make meaningful changes in my daily life.",
   },
   {
     image: "https://github.com/shadcn.png",
-    name: "David Smith",
-    userName: "@david_smith",
+    name: "Abhiraj Singh",
+    userName: "@abhiraj__",
     comment: "I've been using EcoFolio for a few months now, and I'm impressed with the personalized recommendations it offers. It's helped me discover new ways to reduce my carbon footprint and live more sustainably.",
   },
   {
     image: "https://github.com/shadcn.png",
-    name: "Emma Johnson",
-    userName: "@emma_johnson",
+    name: "Rajendra",
+    userName: "@Raja__",
     comment: "EcoFolio's gamification features make sustainability fun and engaging. I love earning rewards and competing with friends to adopt eco-friendly habits. It's a great motivator!",
   },
   {
     image: "https://github.com/shadcn.png",
-    name: "Michael Brown",
-    userName: "@michael_brown",
+    name: "Ajitesh Dubey",
+    userName: "@ajitesh__",
     comment: "As a business owner, I appreciate EcoFolio's scalable solutions. It's helped me implement sustainable practices across my organization and reduce our environmental impact while saving costs.",
   },
   {
     image: "https://github.com/shadcn.png",
-    name: "Sophia Lee",
-    userName: "@sophia_lee",
+    name: "Prem Shankar",
+    userName: "@prem",
     comment: "I highly recommend EcoFolio to anyone looking to live a more eco-friendly lifestyle. It's been an invaluable tool in my sustainability journey, providing me with actionable insights and resources to make a positive impact.",
   },
 ];

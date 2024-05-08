@@ -23,8 +23,8 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
   {
-    imageUrl: "https://i.pravatar.cc/150?img=35",
-    name: "Emma Smith",
+    imageUrl: "https://i.pravatar.cc/150?img=60",
+    name: "Badal Sharma",
     position: "Product Manager",
     socialNetworks: [
       { name: "Linkedin", url: "http://linkedin.com" },
@@ -40,7 +40,7 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=60",
-    name: "John Doe",
+    name: "Abhishek Tripathi",
     position: "Tech Lead",
     socialNetworks: [
       { name: "Linkedin", url: "http://linkedin.com" },
@@ -55,8 +55,8 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "https://i.pravatar.cc/150?img=36",
-    name: "Ashley Ross",
+    imageUrl: "https://i.pravatar.cc/150?img=60",
+    name: "Prem Shankar",
     position: "Frontend Developer",
     socialNetworks: [
       { name: "Linkedin", url: "http://linkedin.com" },
@@ -68,8 +68,8 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "https://i.pravatar.cc/150?img=17",
-    name: "Bruce Rogers",
+    imageUrl: "https://i.pravatar.cc/150?img=60",
+    name: "Abhiraj Singh",
     position: "Backend Developer",
     socialNetworks: [
       { name: "Linkedin", url: "http://linkedin.com" },

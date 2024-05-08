@@ -28,8 +28,8 @@ export const HeroCards = () => {
           </Avatar>
 
           <div className="flex flex-col">
-            <CardTitle className="text-lg">John Doe React</CardTitle>
-            <CardDescription>@john_doe</CardDescription>
+            <CardTitle className="text-lg">Badal Sharma</CardTitle>
+            <CardDescription>@badal__sharma</CardDescription>
           </div>
         </CardHeader>
 
@@ -60,7 +60,7 @@ Developers          </CardDescription>
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://github.com"
+              href="https://github.com/sharmabadal15"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
@@ -93,7 +93,7 @@ Developers          </CardDescription>
 
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/sharmabadal15"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",
@@ -116,7 +116,7 @@ Developers          </CardDescription>
       </Badge>
     </CardTitle>
     <div>
-      <span className="text-3xl font-bold">$0</span>
+      <span className="text-3xl font-bold">₹0</span>
       <span className="text-muted-foreground"> /month</span>
     </div>
 
